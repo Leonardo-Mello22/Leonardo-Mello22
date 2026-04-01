@@ -62,12 +62,6 @@ Python scripts for testing, data handling, and process automation.
 
 ---
 
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Mello22\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📈 Contribution Streak
 
 ![streak](https://streak-stats.demolab.com?user=Leonardo-Mello22\&theme=tokyonight)
