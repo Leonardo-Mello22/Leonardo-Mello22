@@ -82,9 +82,4 @@ Python scripts for testing, data handling, and process automation.
 
 ---
 
-## 📫 Contact
 
-* 💼 LinkedIn: (seu link aqui)
-* 📧 Email: (opcional)
-
----
